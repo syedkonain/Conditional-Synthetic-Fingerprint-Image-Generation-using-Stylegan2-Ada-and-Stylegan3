@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1ilAefSkqOT_zFSwB1s2Iu2EddKK-M8eA/view?usp=drive
 Contact: syedkonainabas@gmail.com
 
 **Acknowledgments**:
-Our code utilizes the official implementations of StyleGAN2-ada (https://github.com/NVlabs/stylegan2-ada-pytorch) and StyleGAN3 (https://github.com/NVlabs/stylegan3).
+We utilize the official implementations of StyleGAN2-ada (https://github.com/NVlabs/stylegan2-ada-pytorch) and StyleGAN3 (https://github.com/NVlabs/stylegan3).
