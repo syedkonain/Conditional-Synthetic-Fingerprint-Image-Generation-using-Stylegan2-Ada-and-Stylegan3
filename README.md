@@ -11,4 +11,4 @@ https://drive.google.com/drive/folders/1usacbJo6Bu_ROLmDBXqCYg69pfb0jtSN
 Contact: syedkonainabas@gmail.com
 
 **Acknowledgments**:
-We utilize the official implementations of StyleGAN2-ada (https://github.com/NVlabs/stylegan2-ada-pytorch) and StyleGAN3 (https://github.com/NVlabs/stylegan3).
+We utilize the official implementations of StyleGAN2-ADA (https://github.com/NVlabs/stylegan2-ada-pytorch) and StyleGAN3 (https://github.com/NVlabs/stylegan3).
