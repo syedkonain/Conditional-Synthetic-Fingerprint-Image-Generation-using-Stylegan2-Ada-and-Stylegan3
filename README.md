@@ -6,8 +6,8 @@ https://drive.google.com/drive/folders/1DS5lE8kRD24Idc-mpE-DQjBEf8gqZQmm
 
 Both models trained weights can be found at
 https://drive.google.com/drive/folders/1cTsB4OBuWT5M9M3mLV1GXHI3ti3QR1RX
+These resources are available upon request; interested researchers email at syedkonainabas@gmail.com to obtain access.
 
-Contact: syedkonainabas@gmail.com
 
 **Acknowledgments**:
 We utilized the official implementations of StyleGAN2-ADA (https://github.com/NVlabs/stylegan2-ada-pytorch) and StyleGAN3 (https://github.com/NVlabs/stylegan3).
