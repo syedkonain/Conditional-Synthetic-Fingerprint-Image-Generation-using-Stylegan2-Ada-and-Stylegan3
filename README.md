@@ -1,4 +1,4 @@
-# Conditional-Synthetic-Fingerprint-Image-Generation-using-Stylegan2-Ada-and-Stylegan3
+# Conditional-Synthetic-Fingerprint-Image-Generation
 Download the 12,500 synthetically generated fingerprints for each class/finger (1-10), containing 1250 images each, using StyleGAN2-Ada (CU-DB2).
 https://drive.google.com/drive/folders/1_jGAdcCOXvoqpCEcPKae35O09A9EilrN
 
